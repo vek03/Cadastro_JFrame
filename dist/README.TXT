@@ -2,6 +2,13 @@
 BUILD OUTPUT DESCRIPTION
 ========================
 
+//Victor Cardoso
+//Vek Histories
+
+//Bem vindo a minha aplicação! 
+//Para rodar, basta baixar este arquivo .jar acima e executar, para editar o código ou analizar instale o zip completo.
+//Tenha bom uso, meu caro!
+
 When you build an Java application project that has a main class, the IDE
 automatically copies all of the JAR
 files on the projects classpath to your projects dist/lib folder. The IDE
